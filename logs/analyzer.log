@@ -1,0 +1,27 @@
+2017-07-25 14:25:05,979 INFO  (log.AnalyzeManager.processFile:223) - FILE REPORT: filename=1471860901832-1 lines_read=2 lines_matched=2.
+2017-07-25 14:26:31,335 INFO  (log.AnalyzeManager.processFile:223) - FILE REPORT: filename=1471860901832-1 lines_read=3 lines_matched=3.
+2017-07-25 14:27:49,450 INFO  (log.AnalyzeManager.processFile:223) - FILE REPORT: filename=1471860901832-1 lines_read=4 lines_matched=4.
+2017-07-25 14:31:16,320 INFO  (log.AnalyzeManager.processFile:223) - FILE REPORT: filename=1471860901832-1 lines_read=4 lines_matched=4.
+2017-07-25 14:43:48,969 INFO  (log.AnalyzeManager.processFile:223) - FILE REPORT: filename=14718609018321212-2 lines_read=18 lines_matched=17.
+2017-07-25 14:50:09,674 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=4 lines_matched=0.
+2017-07-25 14:50:09,675 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=5 lines_matched=0.
+2017-07-25 14:57:41,546 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=14718609018321212-2 lines_read=18 lines_matched=0.
+2017-07-25 14:57:41,549 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=4 lines_matched=0.
+2017-07-25 14:57:41,550 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=5 lines_matched=0.
+2017-07-25 14:59:20,450 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=14718609018321212-2 lines_read=18 lines_matched=0.
+2017-07-25 14:59:20,453 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=4 lines_matched=0.
+2017-07-25 14:59:20,454 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=5 lines_matched=0.
+2017-07-25 15:01:58,706 INFO  (log.AnalyzeManager.processFile:223) - FILE REPORT: filename=14718609018321212-2 lines_read=18 lines_matched=17.
+2017-07-25 15:04:32,158 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=14718609018321212-2 lines_read=18 lines_matched=0.
+2017-07-25 15:04:32,160 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=4 lines_matched=0.
+2017-07-25 15:04:32,160 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=5 lines_matched=0.
+2017-07-25 15:04:32,506 INFO  (log.AnalyzeManager.processFile:223) - FILE REPORT: filename=14718609018321212-3 lines_read=15 lines_matched=14.
+2017-07-25 15:08:27,327 ERROR (log.AnalyzeRunner.run:40) - Error while processing analyzers.
+java.lang.IllegalArgumentException: "/home/rakib/git/ringstatistics" is not not a directory.
+	at log.AnalyzeManager.getDir(AnalyzeManager.java:90)
+	at log.AnalyzeManager.<init>(AnalyzeManager.java:47)
+	at log.AnalyzeRunner.run(AnalyzeRunner.java:36)
+2017-07-25 15:21:14,817 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=14718609018321212-2 lines_read=18 lines_matched=0.
+2017-07-25 15:21:14,822 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=4 lines_matched=0.
+2017-07-25 15:21:14,911 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=14718609018321212-3 lines_read=15 lines_matched=0.
+2017-07-25 15:21:14,914 INFO  (log.AnalyzeManager.processArchiveFile:385) - FILE REPORT: filename=1471860901832-1 lines_read=5 lines_matched=0.
